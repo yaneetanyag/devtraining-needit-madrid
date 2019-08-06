@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
@@ -23,9 +24,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-23 20:48:29</sys_created_on>
         <sys_id>6ead8e780f603200cd674f8ce1050ed1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>me.niedzielski@snc</sys_updated_by>
-        <sys_updated_on>2017-06-06 13:57:15</sys_updated_on>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-06 12:59:39</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
