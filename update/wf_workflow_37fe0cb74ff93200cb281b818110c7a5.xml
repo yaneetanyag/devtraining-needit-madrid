@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="wf_workflow_version">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="wf_workflow_version">
     <wf_workflow_version action="INSERT_OR_UPDATE">
         <active>true</active>
         <activity_stages>{"activities":{},"subflows":[],"stages":{},"ends":["53f2384c0f0232000d030dbce1050eab"]}</activity_stages>
@@ -50,7 +49,6 @@
         <sys_class_name>wf_workflow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-04 22:35:18</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>37fe0cb74ff93200cb281b818110c7a5</sys_id>
@@ -59,7 +57,6 @@
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>wf_workflow_37fe0cb74ff93200cb281b818110c7a5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
@@ -1389,12 +1386,12 @@ answer = 0;</value>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-05 19:51:03</sys_created_on>
-        <sys_id>2ff23c8c0f0232000d030dbce1050e2c</sys_id>
+        <sys_id>ebf23c8c0f0232000d030dbce1050e2d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-05 19:51:03</sys_updated_on>
-        <value>08fcd0830a0a0b2600079f56b1adb9ae</value>
-        <variable display_value="">a7754e91c0a800664938d0ef6d2664d7</variable>
+        <value/>
+        <variable display_value="">a774138dc0a80066000be7af20961c7d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1403,12 +1400,12 @@ answer = 0;</value>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-05 19:51:03</sys_created_on>
-        <sys_id>ebf23c8c0f0232000d030dbce1050e2d</sys_id>
+        <sys_id>2ff23c8c0f0232000d030dbce1050e2c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-05 19:51:03</sys_updated_on>
-        <value/>
-        <variable display_value="">a774138dc0a80066000be7af20961c7d</variable>
+        <value>08fcd0830a0a0b2600079f56b1adb9ae</value>
+        <variable display_value="">a7754e91c0a800664938d0ef6d2664d7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1459,12 +1456,12 @@ answer = 0;</value>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-05 19:51:03</sys_created_on>
-        <sys_id>27f2384c0f0232000d030dbce1050ead</sys_id>
+        <sys_id>abf23c8c0f0232000d030dbce1050e2e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-05 19:51:03</sys_updated_on>
         <value/>
-        <variable display_value="">a775f59ac0a8006665d72362ae687035</variable>
+        <variable display_value="">a7781cb6c0a80066147dc7a5244d5d16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1473,12 +1470,12 @@ answer = 0;</value>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-05 19:51:03</sys_created_on>
-        <sys_id>abf23c8c0f0232000d030dbce1050e2e</sys_id>
+        <sys_id>27f2384c0f0232000d030dbce1050ead</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-05 19:51:03</sys_updated_on>
         <value/>
-        <variable display_value="">a7781cb6c0a80066147dc7a5244d5d16</variable>
+        <variable display_value="">a775f59ac0a8006665d72362ae687035</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
